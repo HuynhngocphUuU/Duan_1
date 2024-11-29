@@ -36,5 +36,6 @@
             $this->conn = null; // Close the database connection
             return $kq; // Return the array of data rows
         }
+        
     }
 ?>

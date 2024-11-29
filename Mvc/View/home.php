@@ -1,6 +1,6 @@
 <section>
         <div class="banner">
-            <img id="slider" src="/Mvc/Public/img/slider_1.webp" alt="">
+            <img id="slider" src="Public/img/slider_1.webp" alt="">
         </div>
     </section>
     
@@ -8,7 +8,7 @@
     <div class="All-list">
         <div class="product-menu">
             <div class="soMi">
-                <a href=""><img src="/Mvc/Public/img/SoMi.jpg" alt=""></a>
+                <a href=""><img src="Public/img/1.jpg" alt=""></a>
                 <div class="type">
                    <a href=""><p>Áo Sơ Mi</p></a> 
                    <button class="view">Xem</button>
@@ -18,7 +18,7 @@
 
         <div class="product-menu">
             <div class="soMi">
-                <img src="/Mvc/Public/img/SoMi.jpg" alt="">
+                <img src="Public/img/2.jpg" alt="">
                 <div class="type">
                     <a href=""><p>Quần Tây</p></a> 
                     <button class="view">Xem</button>
