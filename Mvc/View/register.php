@@ -26,6 +26,6 @@
                 <button type="submit" class="btn">Đăng ký</button>
             </form>
             <div class="signup-link">
-                <p>Đã có tài khoản? <a href="../index.php/">Đăng Nhập</a></p>
+                <p>Đã có tài khoản? <a href="/View/login.php/">Đăng Nhập</a></p>
             </div>
         </section>
